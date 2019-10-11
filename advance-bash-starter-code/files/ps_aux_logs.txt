@@ -1,0 +1,2 @@
+vagrant   2095  0.0  0.3  36084  3232 pts/0    R+   11:04   0:00 ps aux
+vagrant   2096  0.0  0.0  12944   940 pts/0    S+   11:04   0:00 grep --color=auto aux
