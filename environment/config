@@ -1,0 +1,2 @@
+[alias]
+git config --global alias.lazygit '!func(){ git add . && git commit -aqm "$1" && git pull -q --no-progress && git push -q; }; func'
